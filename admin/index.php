@@ -1,0 +1,1 @@
+<?php echo '<script>alert("Hello Admin, Please Login!"); window.location = "login.php";</script>'; ?>
